@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/paperclip/static/css/main.1f5b63f0.css",
-    "main.js": "/paperclip/static/js/main.f2bbf013.js",
+    "main.js": "/paperclip/static/js/main.64be5303.js",
     "static/js/787.15916fef.chunk.js": "/paperclip/static/js/787.15916fef.chunk.js",
     "index.html": "/paperclip/index.html",
     "main.1f5b63f0.css.map": "/paperclip/static/css/main.1f5b63f0.css.map",
-    "main.f2bbf013.js.map": "/paperclip/static/js/main.f2bbf013.js.map",
+    "main.64be5303.js.map": "/paperclip/static/js/main.64be5303.js.map",
     "787.15916fef.chunk.js.map": "/paperclip/static/js/787.15916fef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f5b63f0.css",
-    "static/js/main.f2bbf013.js"
+    "static/js/main.64be5303.js"
   ]
 }
